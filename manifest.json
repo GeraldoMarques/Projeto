@@ -1,0 +1,17 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "master--techtroves.netlify",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "master--techtroves.netlify",
+  "start_url": "https://techtroves.netlify.app",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "assets/favicon.ico",
+      "type": "image/x-icon"
+    }
+  ]
+}
